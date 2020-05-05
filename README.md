@@ -1,6 +1,6 @@
 # ProcessManagement
 C++ program that will implement 3 process management algorithms
 Algorithms: 
-1.First Come – First Serve  : non-preemptive
-2.Priority : -pre-emptive
-3.Shortest Job Next – non-preemptive
+A) First Come First Serve : Nonpreemptive
+B) Priority : Preemptive
+C) Shortest Job Next –: Non preemptive
